@@ -1,4 +1,4 @@
-# Entry 1
+# Entry 1: Mental Health Care
 ##### X/X/XX
 
 Text
