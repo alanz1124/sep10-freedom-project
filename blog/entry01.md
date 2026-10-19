@@ -1,6 +1,6 @@
 # Entry 1: Mental Health Care
-##### X/X/XX
-
+##### 10/19/26 (MM/DD/YY)
+#### 
 Text
 
 [Next](entry02.md)
