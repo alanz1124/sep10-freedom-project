@@ -19,6 +19,7 @@ Topic: **Mental Health Care**
   * [Link](https://www.nimh.nih.gov/news/science-updates/2016/a-bright-technological-future-for-mental-health-trials)
 
   * AI study (by NAMI)
+  * 
    * Research project
     * Current Problems
      * Can be helpful, confusing or dangerous
