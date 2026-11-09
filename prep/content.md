@@ -19,8 +19,13 @@ Topic: **Mental Health Care**
   * [Link](https://www.nimh.nih.gov/news/science-updates/2016/a-bright-technological-future-for-mental-health-trials)
 
 ##### Hardware
-* Tech
-  * Detail
+* TouchPoint
+  * 2 devices with clothing clips
+  * 3 built in speeds to help with stress relief
+    * Slow speed for sleep/meditation
+    * Medium speed to reduce stress and regain focus
+    * Fast speed to reduce emotional agitation and manage anger
+  * $219.99 USD (quite expensive)
   * [image text](image URL)
 
 ## Part B: possible future technology
