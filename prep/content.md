@@ -26,7 +26,7 @@ Topic: **Mental Health Care**
     * Medium speed to reduce stress and regain focus
     * Fast speed to reduce emotional agitation and manage anger
   * $219.99 USD (quite expensive)
-  * [image text](image URL)
+  * [Link](https://www.thetouchpointsolution.com/products/touchpoints-for-calm)
 
 ## Part B: possible future technology
 * Idea
