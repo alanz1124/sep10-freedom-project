@@ -23,6 +23,7 @@ Topic: **Mental Health Care**
     * Current Problems
       * Can be helpful, confusing or dangerous
       * Not always accurate
+      * Not a replacement for care
     * Goal
       * Make AI safer to use
       * Provide easy to use AI chats
