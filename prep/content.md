@@ -18,9 +18,17 @@ Topic: **Mental Health Care**
     * Compensated for participating 
   * [Link](https://www.nimh.nih.gov/news/science-updates/2016/a-bright-technological-future-for-mental-health-trials)
 
+  * AI study (by NAMI)
+   * Research project
+    * Current Problems
+     * Can be helpful, confusing or dangerous
+     * Not always accurate
+    * Goal
+     * Make AI safer to use
+     * Provide easy to use AI chats
 ##### Hardware
 * TouchPoint
-  * 2 devices with clothing clips
+* 2 devices with clothing clips
   * 3 built in speeds to help with stress relief
     * Slow speed for sleep/meditation
     * Medium speed to reduce stress and regain focus
