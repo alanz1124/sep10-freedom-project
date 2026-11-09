@@ -27,6 +27,7 @@ Topic: **Mental Health Care**
     * Goal
       * Make AI safer to use
       * Provide easy to use AI chats
+      * [Link](https://www.nami.org/ai-and-mental-health/)
 ##### Hardware
 * TouchPoint
 * 2 devices with clothing clips
