@@ -24,6 +24,7 @@ Topic: **Mental Health Care**
       * Can be helpful, confusing or dangerous
       * Not always accurate
       * Not a replacement for care
+      * 12% of adults are likely to use AI instead of consulting a therapist (1% already do)
     * Goal
       * Make AI safer to use
       * Provide easy to use AI chats
